@@ -39,6 +39,6 @@
 > ## License 
 > This program uses the license _[General Public License v3.0](https://github.com/isolation0/Root-Kali)_
 
-> ##Twtter
+> ##Twitter
 
 [Twitter](https://twitter.com/iuexb?s=21)
