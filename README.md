@@ -6,11 +6,11 @@
 [![Contrinutions](https://img.shields.io/badge/Contributions-Open%20!-yellow?style=flat-square)]()
 > >  ### _**A massive penetration testing toolkit**_
 > ## About
-> _**`The Root@Kali is a product of Delta_Society™ by isoaltion@Hacker !`**_
+> _**`The Root@Kali is a product of by isoaltion@Hacker !`**_
 >
->  **OmegaDSToolkit (ODST)** is a toolkit that brings together penetration testing tools such as wireless tools, web tools, password cracking tools, etc.
+>  **Root@Kali (ODST)** is a toolkit that brings together penetration testing tools such as wireless tools, web tools, password cracking tools, etc.
 > * **`Totally in development!`**
-> * This tool is for educational purposes only, the use of **OmegaDSToolkit** on a target without its consent is totally **illegal!** I will not take any responsibility if this program is used explicitly
+> * This tool is for educational purposes only, the use of **Root@Kali** on a target without its consent is totally **illegal!** I will not take any responsibility if this program is used explicitly
 > 
 > ## Features
 > * The tools will be categorized as: 
