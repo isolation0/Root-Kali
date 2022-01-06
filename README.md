@@ -1,13 +1,12 @@
-# **OmegaDSToolkit**
+# **Root@Kali**
 > [![Codename](https://img.shields.io/badge/Codename-MyMeepSQL-informational?style=flat-square)]()
 [![Version](https://img.shields.io/badge/Version-0.0.0.6-brightgreen?style=flat-square)]()
 [![Release](https://img.shields.io/badge/Release-Stable-success?style=flat-square)]()
-[![Supported OS](https://img.shields.io/badge/Supported%20OS-Linux%20--%20Windows-success?style=flat-square)]()
 [![Licence](https://img.shields.io/badge/License-GNU--GPL--3.0-important?style=flat-square)]()
 [![Contrinutions](https://img.shields.io/badge/Contributions-Open%20!-yellow?style=flat-square)]()
 > >  ### _**A massive penetration testing toolkit**_
 > ## About
-> _**`The OmegaDSToolkit is a product of Delta_Society™ by MyMeepSQL !`**_
+> _**`The Root@Kali is a product of Delta_Society™ by isoaltion@Hacker !`**_
 >
 >  **OmegaDSToolkit (ODST)** is a toolkit that brings together penetration testing tools such as wireless tools, web tools, password cracking tools, etc.
 > * **`Totally in development!`**
@@ -26,22 +25,20 @@
 >   * _**And more**_
 > 
 > ## Installation
-> Instructions to install ***OmegaDSToolkit***...
+> Instructions to install ***Root@Kali***...
 > ```bash
-> git clone https://github.com/MyMeepSQL/OmegaDSToolkit.git
-> cd OmegaDSToolkit
+> git clone https://github.com/isolation0/Root-Kali.git
+> cd Linux
 > python setup.py
-> cd OmegaDSToolkit
-> python OmegaDSToolkit[v0.0.0.6#dev].py
+> cd Linux
+> python Linux.py
 > ```
-> 
-> ## Tool overview
-> | The main page | 
-> | ------------- | 
-> | ![menu](https://zupimages.net/up/21/52/wo2o.jpg)  |
-> 
 > ## Changelog
-> All new changes compared to _**OmegaDSToolkit**_ can be found _[here](https://github.com/MyMeepSQL/OmegaDSToolkit/blob/main/CHANGLOG.md)_
+> All new changes compared to _**Root@Kali**_ can be found _[here](https://github.com/isolation0/Root-Kali)_
 > 
 > ## License 
-> This program uses the license _[General Public License v3.0](https://github.com/MyMeepSQL/OmegaDSToolki)_
+> This program uses the license _[General Public License v3.0](https://github.com/isolation0/Root-Kali)_
+
+> ##Twtter
+
+[Twitter](https://twitter.com/iuexb?s=21)
