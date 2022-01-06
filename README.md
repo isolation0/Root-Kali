@@ -23,7 +23,7 @@
 > Instructions to install ***Root@Kali***...
 > ```bash
 > git clone https://github.com/isolation0/Root-Kali.git
-> cd Linux
+> cd Root-Kali
 > python setup.py
 > cd Linux
 > python Linux.py
